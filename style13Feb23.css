@@ -1,0 +1,15 @@
+/* TYPOGRAPHY */
+/*  font family */
+/* GOOGLE FONTS */
+/* put into consideration the load time of fonts ie the bolder the fonts the longer it takes to load */
+/* we can use two ways to include the code. using the link or use importing */
+/* I added the link to index13feb.html */
+
+ @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,800&family=Roboto:wght@100&family=Square+Peg&display=swap');
+
+body{
+ font-family: 'Bricolage Grotesque', sans-serif;
+}
+h1{
+ font-family: 'Square Peg', cursive;
+}
